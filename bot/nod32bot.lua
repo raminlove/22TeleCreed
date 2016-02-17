@@ -243,7 +243,7 @@ function create_config( )
     "info",
     "lock_join"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {191772388},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -315,11 +315,11 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+
 
 ]],
-    help_text = [[
-NOD32 Commands list :
+    help_text  = [[
+TeleCreed Commands list :
  
 1-banhammer list ^
  
@@ -485,15 +485,9 @@ NOD32 Commands list :
 ورژن ربات
 
 you can use both "/" and "!" 
-.شما میتوانید از ! و / استفاده کنید
-
-Developer: @BehroozYaghi
-توسعه دهنده
-
-channel: @Nod32team
-کانال ما
-
-G00D LUCK ^_^
+.شما میتوانید از ! و / استفاده کنید.
+آیدی آدمین: @Mehdi74Sh   
+↫╆⇟ M₤h๔İ ⇞╆↬
 ]]
   }
   serialize_to_file(config, './data/config.lua')
