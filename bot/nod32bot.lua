@@ -487,11 +487,8 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-Developer: @BehroozYaghi
+Developer: @Loover4Live
 توسعه دهنده
-
-channel: @Nod32team
-کانال ما
 
 G00D LUCK ^_^
 ]]
